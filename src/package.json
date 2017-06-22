@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexa/skill-sample-nodejs-howto.git"
+    "url": "git+https://github.com/codekunoichi/skill-sample-nodejs-howto"
   },
   "keywords": [
     "Alexa",
