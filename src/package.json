@@ -16,6 +16,7 @@
     "howto"
   ],
   "author": "Amazon.com",
+  "modified by" : "codekonuichi",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/alexa/skill-sample-nodejs-howto/issues"
